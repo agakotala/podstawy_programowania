@@ -1,0 +1,49 @@
+JAVA — MATERIAŁ DO INSTRUKCJI
+
+1. Otwórz projekt w IntelliJ IDEA.
+2. Ustaw JDK 25 jako SDK projektu, jeśli IntelliJ o to poprosi.
+3. Zacznij od src/block1/Example01Hello.java.
+4. Czytaj przykłady po kolei.
+5. Pliki z przykładami mają komentarze wyjaśniające zagadnienie i przewidywany wynik.
+6. W zadaniach szukaj komentarzy TODO lub polecenia do samodzielnej analizy.
+7. Celowo błędny kod jest zapisany w komentarzach, aby cały projekt nadal się kompilował.
+
+BLOK 1 — PRZYKŁADY:
+Example01Hello
+Example02Variables
+Example03ChangeValue
+Example04Int
+Example05Double
+Example06Student
+
+BLOK 1 — ZADANIA:
+MyData
+Computer
+Errors
+TypeSelection
+
+BLOK 2 — PRZYKŁADY:
+Example07Arithmetic
+Example08Modulo
+Example09Rectangle
+Example10Assignment
+Example11Counter
+Example12IncrementOrder
+Example13StringAndNumbers
+
+BLOK 2 — ZADANIA:
+Calculator
+PredictResult
+TrackValue
+Shopping
+Wallet
+Game
+Time
+Temperature
+Shop
+Mystery
+
+ZADANIA DODATKOWE:
+Kilometers
+DaysTime
+Order
