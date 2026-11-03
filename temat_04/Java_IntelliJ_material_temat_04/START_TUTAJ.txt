@@ -1,0 +1,30 @@
+JAVA — TEMAT 04: Pętle i rekurencja
+WERSJA: STUDENCKA — PRACA SAMODZIELNA
+
+1. Otwórz folder Java_IntelliJ_material_temat_04 w IntelliJ.
+2. Ustaw JDK 17+ i oznacz src jako Sources Root (Mark Directory as).
+3. Otwórz README.md i uruchom pierwszy przykład z proponowanej kolejności.
+4. Wykonaj zadania według PDF oraz README.md.
+
+PRZYKŁADY:
+ - Example01While.java
+ - Example02DoWhile.java
+ - Example03For.java
+ - Example04BreakContinue.java
+ - Example05NestedLoops.java
+ - Example06FactorialIterative.java
+ - Example07FactorialRecursive.java
+ - Example08FibonacciIterative.java
+ - Example09FibonacciRecursive.java
+
+ZADANIA:
+ - CountdownLoops.java
+ - FactorialTrace.java
+ - FibonacciComparison.java
+ - NestedLoopCount.java
+ - SkipMultiplesOfThree.java
+ - SumOneToHundred.java
+
+KONTYNUACJA LAB 2
+Z Lab 2: inkrementacja, przypisania i obliczenia na zmiennych.
+Nowe: iteracje, while, do-while, for, break/continue, pętle zagnieżdżone i rekurencja.
