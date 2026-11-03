@@ -1,0 +1,24 @@
+JAVA — TEMAT 03: Porównania, warunki, if i switch
+WERSJA: STUDENCKA — PRACA SAMODZIELNA
+
+1. Otwórz folder Java_IntelliJ_material_temat_03 w IntelliJ.
+2. Ustaw JDK 17+ i oznacz src jako Sources Root (Mark Directory as).
+3. Otwórz README.md i uruchom pierwszy przykład z proponowanej kolejności.
+4. Wykonaj zadania według PDF oraz README.md.
+
+PRZYKŁADY:
+ - Example01Comparisons.java
+ - Example02Logical.java
+ - Example03If.java
+ - Example04IfElseChain.java
+ - Example05Switch.java
+ - Example06Ternary.java
+
+ZADANIA:
+ - LeapYear.java
+ - LoginCheck.java
+ - TicketPrice.java
+
+KONTYNUACJA LAB 2
+Z Lab 2: podstawowe typy, boolean, operatory i znak przypisania.
+Nowe: operatory logiczne, warunki if/else, else-if, switch i operator warunkowy.
