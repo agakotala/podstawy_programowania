@@ -1,0 +1,25 @@
+JAVA — TEMAT 10: Pakiety, wyjątki i kolekcje
+WERSJA: STUDENCKA — PRACA SAMODZIELNA
+
+1. Otwórz folder Java_IntelliJ_material_temat_10 w IntelliJ.
+2. Ustaw JDK 17+ i oznacz src jako Sources Root (Mark Directory as).
+3. Otwórz README.md i uruchom pierwszy przykład z proponowanej kolejności.
+4. Wykonaj zadania według PDF oraz README.md.
+
+PRZYKŁADY:
+ - Example01EnhancedFor.java
+ - Example02TryCatch.java
+ - Example03Finally.java
+ - Example04Throw.java
+ - Example05ArrayList.java
+ - Example06HashSet.java
+ - Example07HashMap.java
+ - Example08ArrayDeque.java
+ - PackageImportDemo.java
+
+ZADANIA:
+ - SafeDivision.java
+
+KONTYNUACJA LAB 2
+Z Lab 2: deklaracje typów i struktura klasy; z poprzednich tematów: pętle.
+Nowe: pakiety, import, wyjątki, listy, zbiory, mapy i stosowanie kolekcji.

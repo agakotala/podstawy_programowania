@@ -1,0 +1,22 @@
+JAVA — TEMAT 09: Algorytmy, minimum i sortowanie
+WERSJA: STUDENCKA — PRACA SAMODZIELNA
+
+1. Otwórz folder Java_IntelliJ_material_temat_09 w IntelliJ.
+2. Ustaw JDK 17+ i oznacz src jako Sources Root (Mark Directory as).
+3. Otwórz README.md i uruchom pierwszy przykład z proponowanej kolejności.
+4. Wykonaj zadania według PDF oraz README.md.
+
+PRZYKŁADY:
+ - Example01BubbleSort.java
+ - Example02InsertionSort.java
+ - Example03MinInRowColumn.java
+ - Example04Complexity.java
+
+ZADANIA:
+ - CompareSorts.java
+ - FindMinColumn.java
+ - SortDescending.java
+
+KONTYNUACJA LAB 2
+Z Lab 2: operatory i porównania; z poprzednich tematów: tablice i pętle.
+Nowe: algorytmy minimum, sortowanie bąbelkowe i przez wstawianie, złożoność.

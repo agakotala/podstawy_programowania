@@ -1,0 +1,23 @@
+JAVA — TEMAT 08: Tablice jedno- i dwuwymiarowe
+WERSJA: STUDENCKA — PRACA SAMODZIELNA
+
+1. Otwórz folder Java_IntelliJ_material_temat_08 w IntelliJ.
+2. Ustaw JDK 17+ i oznacz src jako Sources Root (Mark Directory as).
+3. Otwórz README.md i uruchom pierwszy przykład z proponowanej kolejności.
+4. Wykonaj zadania według PDF oraz README.md.
+
+PRZYKŁADY:
+ - Example01ArrayCreate.java
+ - Example02ArrayOperations.java
+ - Example03TwoDimensional.java
+ - Example04MatrixTraversal.java
+
+ZADANIA:
+ - ArrayStats.java
+ - MatrixSum.java
+ - ReverseArray.java
+ - RowSums.java
+
+KONTYNUACJA LAB 2
+Z Lab 2: pętle i typy; indeksowanie tablic to nowy temat.
+Nowe: tablice 1D i 2D, operacje na elementach, granice indeksów.
