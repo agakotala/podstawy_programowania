@@ -1,0 +1,22 @@
+JAVA — TEMAT 01: Kompilacja, bajtkod, JVM i JIT
+WERSJA: STUDENCKA — PRACA SAMODZIELNA
+
+1. Otwórz folder Java_IntelliJ_material_temat_01 w IntelliJ.
+2. Ustaw JDK 17+ i oznacz src jako Sources Root (Mark Directory as).
+3. Otwórz README.md i uruchom pierwszy przykład z proponowanej kolejności.
+4. Wykonaj zadania według PDF oraz README.md.
+
+PRZYKŁADY:
+ - Arguments.java
+ - Demo.java
+ - CompilationStages.java
+ - RuntimeEnvironment.java
+ - ToolchainExperiment.java
+
+ĆWICZENIA DODATKOWE (PO ZADANIACH 1–5 W PDF):
+ - BytecodeQuestions.java
+ - PlatformReport.java
+
+KONTYNUACJA LAB 2
+Z Lab 2: najprostsza klasa, main, println i zmienne.
+Nowe: kompilacja, bajtkod, JDK, JVM, JIT, javap, zgodność wersji oraz rozpoznawanie błędów.
