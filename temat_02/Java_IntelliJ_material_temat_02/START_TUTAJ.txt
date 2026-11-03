@@ -1,0 +1,25 @@
+JAVA — TEMAT 02: Konwersje typów, promocja i przepełnienie
+WERSJA: STUDENCKA — PRACA SAMODZIELNA
+
+1. Otwórz folder Java_IntelliJ_material_temat_02 w IntelliJ.
+2. Ustaw JDK 17+ i oznacz src jako Sources Root (Mark Directory as).
+3. Otwórz README.md i uruchom pierwszy przykład z proponowanej kolejności.
+4. Wykonaj zadania według PDF oraz README.md.
+
+PRZYKŁADY:
+ - CastingEdgeCases.java
+ - DivisionPrecision.java
+ - IntegerOverflow.java
+ - Example14Literals.java
+ - Example15Widening.java
+ - Example16Narrowing.java
+ - Example17NumericPromotion.java
+ - LiteralBases.java
+
+ĆWICZENIA DODATKOWE (PO ZADANIACH 1–5 W PDF):
+ - CastingPractice.java
+ - LiteralPractice.java
+
+KONTYNUACJA LAB 2
+Z Lab 2: typy proste, String, literały, operatory i przypisania.
+Nowe: rzutowanie, konwersje, promocja typów, dokładność obliczeń i przepełnienie.
