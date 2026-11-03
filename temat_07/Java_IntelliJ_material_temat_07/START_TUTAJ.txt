@@ -1,0 +1,23 @@
+JAVA — TEMAT 07: Math, Scanner, Random i pliki tekstowe
+WERSJA: STUDENCKA — PRACA SAMODZIELNA
+
+1. Otwórz folder Java_IntelliJ_material_temat_07 w IntelliJ.
+2. Ustaw JDK 17+ i oznacz src jako Sources Root (Mark Directory as).
+3. Otwórz README.md i uruchom pierwszy przykład z proponowanej kolejności.
+4. Wykonaj zadania według PDF oraz README.md.
+
+PRZYKŁADY:
+ - Example01Math.java
+ - Example02Scanner.java
+ - Example03Random.java
+ - Example04StringParsing.java
+ - Example05FileWrite.java
+ - Example06FileRead.java
+
+ZADANIA:
+ - DiceSimulation.java
+ - InputProfile.java
+
+KONTYNUACJA LAB 2
+Z Lab 2: podstawowe typy i działania; Scanner nie musi być jeszcze znany.
+Nowe: korzystanie z Math, Scanner, Random, parsowanie i pliki tekstowe.

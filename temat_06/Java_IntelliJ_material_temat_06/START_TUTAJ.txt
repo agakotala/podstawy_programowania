@@ -1,0 +1,24 @@
+JAVA — TEMAT 06: Static, final, dziedziczenie i zasięg
+WERSJA: STUDENCKA — PRACA SAMODZIELNA
+
+1. Otwórz folder Java_IntelliJ_material_temat_06 w IntelliJ.
+2. Ustaw JDK 17+ i oznacz src jako Sources Root (Mark Directory as).
+3. Otwórz README.md i uruchom pierwszy przykład z proponowanej kolejności.
+4. Wykonaj zadania według PDF oraz README.md.
+
+PRZYKŁADY:
+ - Animal.java
+ - Counter.java
+ - Dog.java
+ - Example01StaticInstance.java
+ - Example02Inheritance.java
+ - FinalDemo.java
+ - ScopeLifetime.java
+
+ZADANIA:
+ - Car.java
+ - Vehicle.java
+
+KONTYNUACJA LAB 2
+Z Lab 2: pola, typy i podstawowa struktura klasy.
+Nowe: static, final, zasięg, czas życia obiektów i dziedziczenie.

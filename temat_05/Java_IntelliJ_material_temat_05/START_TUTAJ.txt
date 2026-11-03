@@ -1,0 +1,23 @@
+JAVA — TEMAT 05: String, klasy, obiekty i metody
+WERSJA: STUDENCKA — PRACA SAMODZIELNA
+
+1. Otwórz folder Java_IntelliJ_material_temat_05 w IntelliJ.
+2. Ustaw JDK 17+ i oznacz src jako Sources Root (Mark Directory as).
+3. Otwórz README.md i uruchom pierwszy przykład z proponowanej kolejności.
+4. Wykonaj zadania według PDF oraz README.md.
+
+PRZYKŁADY:
+ - BankAccount.java
+ - Example01StringOperations.java
+ - Example02ClassAndObject.java
+ - Example03Overloading.java
+ - MathHelper.java
+ - Person.java
+ - Rectangle.java
+
+ZADANIA:
+ - Product.java
+
+KONTYNUACJA LAB 2
+Z Lab 2: String, łączenie napisów i proste programy.
+Nowe: metody String, równość napisów, własne metody, klasy, obiekty i hermetyzacja.
